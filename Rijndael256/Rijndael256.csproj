@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>netcoreapp1.0;net452</TargetFrameworks>
-    <Version>3.2.0</Version>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>3.3.0</Version>
     <Authors>2Toad, LLC</Authors>
     <Description>Rijndael256 makes encrypting data and files a breeze with the AES symmetric-key cipher Rijndael.
 
